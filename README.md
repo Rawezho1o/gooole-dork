@@ -1,10 +1,10 @@
 # gooole-dork for 
 
- LFI
+# LFI
 cat
 dir
 action
-# board
+board
 date
 detail
 file
