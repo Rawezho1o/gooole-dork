@@ -1,6 +1,6 @@
 # gooole-dork for 
 
-# LFI
+# Lfi
 cat
 dir
 action
