@@ -1,28 +1,20 @@
 # gooole-dork for 
 
 # Lfi
-cat
-dir
-action
-board
-date
-detail
-file
-download
-path
-folder
-prefix
-include
-page
-inc
-locate
-show
-doc
-site
-type
-view
-content
-document
-layout
-mod
-conf
+
+inurl=cat | inurl=dir | inurl=action | inurl=board | inurl=date | inurl=detail | inurl=file | inurl=download | inurl=path | inurl=folder | inurl=prefix | inurl= include | inurl=inc |  inurl=locate | inurl=show |  inurl=doc | inurl=site |  inurl=type | inurl=view |  inurl=content | inurl=document | inurl=layout | inurl=mod | inurl=conf site:"example.com"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
